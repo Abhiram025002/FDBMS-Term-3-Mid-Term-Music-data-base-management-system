@@ -17,3 +17,4 @@
 # • To subscribe to a premium version of the app the user has to select a plan. Each Premium Plan has its own unique ID corresponding to the duration of the plan and price.
 # • The details such as method of payment and date of subscription are also maintained.
 # • Also the user account has other attributes like Liked Songs, Liked Albums, Playlists and Frequents
+![image](https://user-images.githubusercontent.com/93213738/157833306-e7edef67-8d6a-485f-8c3c-02b5fe4773ee.png)
